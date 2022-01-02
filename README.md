@@ -1,4 +1,4 @@
-<h1 align="center">Lyrics Finder</h1>
+<h1 align="center">Lyrics Finder:notes:</h1>
 <p>
   <ul>
     <li>Not able to understand the lyrics of the song you are listening to? Get the lyrics of your songs at your desktop, checkout this Lyrics Finder app.</li>

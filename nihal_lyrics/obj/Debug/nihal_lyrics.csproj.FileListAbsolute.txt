@@ -1,0 +1,9 @@
+C:\Users\NL046100\Desktop\nihal_lyrics\obj\Debug\nihal_lyrics.Form1.resources
+C:\Users\NL046100\Desktop\nihal_lyrics\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\NL046100\Desktop\nihal_lyrics\obj\Debug\nihal_lyrics.csproj.GenerateResource.Cache
+C:\Users\NL046100\Desktop\nihal_lyrics\bin\Debug\$safeprojectname$.exe.config
+C:\Users\NL046100\Desktop\nihal_lyrics\bin\Debug\$safeprojectname$.exe
+C:\Users\NL046100\Desktop\nihal_lyrics\bin\Debug\$safeprojectname$.pdb
+C:\Users\NL046100\Desktop\nihal_lyrics\obj\Debug\$safeprojectname$.exe
+C:\Users\NL046100\Desktop\nihal_lyrics\obj\Debug\$safeprojectname$.pdb
+C:\Users\NL046100\Desktop\nihal_lyrics\obj\Debug\nihal_lyrics.csprojResolveAssemblyReference.cache
